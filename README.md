@@ -28,18 +28,28 @@ Daily and monthly purchase trends to analyze peak sales days.
 
 ### 📂 Dataset
 Mobile Sales Dataset The dataset contains mobile sales records, including:
+* Date (Year, Quarter, Month, Day)
+* Total Sales & Quantity
+* Transactions Count
+* Mobile Model
+* Payment Method
+* City & Region
+* Customer Ratings
 
-Date (Year, Quarter, Month, Day)
-Total Sales & Quantity
-Transactions Count
-Mobile Model
-Payment Method
-City & Region
-Customer Ratings
-📸 Dashboard Previews
+### 📸 Dashboard Previews
 #### Main Dashboard
 ![image](https://github.com/Dhanashri-welde/Mobile-Sales-Dashboard---Power-BI-Project/blob/main/Dashboard_Preview_1.png?raw=true)
 
 #### MTD REPORT
 ![image](https://github.com/Dhanashri-welde/Mobile-Sales-Dashboard---Power-BI-Project/blob/main/Dashboard_Preview_2.png?raw=true)
+
+#### SAME PERIOD LAST YEAR
+![image](https://github.com/Dhanashri-welde/Mobile-Sales-Dashboard---Power-BI-Project/blob/main/Dashboard_Preview_3.png?raw=true)
+
+### 🔎 Insights & Findings
+* Quarterly Sales Trends: Sales are fairly stable across quarters but show minor fluctuations.
+* Popular Payment Methods: UPI and Debit Cards contribute to the highest percentage of transactions.
+* Best-Selling Mobile Models: The iPhone SE, OnePlus Nord, and Galaxy Note 20 have the highest sales.
+* City-Wise Sales: Major sales contributions come from metro cities like Mumbai, Bangalore, and Delhi
+* Customer Ratings: A significant portion of customers rated their purchases as Good, indicating high satisfaction
 
