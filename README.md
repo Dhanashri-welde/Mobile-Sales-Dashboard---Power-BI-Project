@@ -38,3 +38,7 @@ City & Region
 Customer Ratings
 📸 Dashboard Previews
 #### Main Dashboard
+![image](https://github.com/Dhanashri-welde/Mobile-Sales-Dashboard---Power-BI-Project/blob/main/Dashboard_Preview_1.png?raw=true)
+
+#### MTD REPORT
+
