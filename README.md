@@ -41,4 +41,5 @@ Customer Ratings
 ![image](https://github.com/Dhanashri-welde/Mobile-Sales-Dashboard---Power-BI-Project/blob/main/Dashboard_Preview_1.png?raw=true)
 
 #### MTD REPORT
+![image](https://github.com/Dhanashri-welde/Mobile-Sales-Dashboard---Power-BI-Project/blob/main/Dashboard_Preview_2.png?raw=true)
 
